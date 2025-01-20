@@ -1,0 +1,89 @@
+    1  cd C:\Users\Neo\Documents\Deploy\load-shortfall-regression-predict-api\utils
+    2  pip install requests
+    3  cd C:\Users\Neo\Documents\Deploy
+    4  import numpy
+    5  pip install numpy
+    6  cd C:\Users\Neo\Documents\Deploy\load-shortfall-regression-predict-api
+    7  pip install pandas
+    8  pip install flask
+    9  pip install scikit-learn
+   10  git clone https://github.com/neomotaung21/load-shortfall-regression-predict-api.git
+   11  C:\Users\Neo\Documents\Git local
+   12  cd C:\Users\Neo\Documents\Git local
+   13  pip install -U flask numpy pandas scikit-learn
+   14  git clone https://github.com/neomotaung21/load-shortfall-regression-predict-api.git
+   15  python api.py
+   16  scp best_model.pkl explore-student@34.255.119.20:load-shortfall-regression-predict-api/assets/trained-models
+   17  ssh explore-student@34.255.119.20
+   18  ssh explore-student@34.255.119.2
+   19  ssh explore-student@34.255.119.20
+   20  ssh explore-student@54.74.127.182
+   21  scp linear_regression_model.pkl explore-student@34.255.119.20:load-shortfall-regression-predict-api/assets/trained-models
+   22  scp api.py explore-student@34.255.119.20:load-shortfall-regression-predict-api
+   23  scp model.py explore-student@34.255.119.20:load-shortfall-regression-predict-api
+   24  ssh explore-student@54.74.127.182
+   25  ssh explore@54.229.154.230
+   26  ssh explore-student@54.229.154.230
+   27  ssh explore-student@3.254.230.71
+   28  curl http://172.31.44.136:5/api_v0.1
+   29  curl http://3.250.11.105:5/api_v0.1
+   30  curl http://3.250.11.105:5000/api_v0.1
+   31  ssh explore-student@54.229.154.230
+   32  ssh explore-student@3.250.11.105
+   33  ssh explore-student@34.244.59.103
+   34  cd C:\Users\Neo\Documents\Git local\load-shortfall-regression-predict-api\assets\trained-models
+   35  ls
+   36  scp linear_regression_model.pkl explore-student@54.229.154.230:load-shortfall-regression-predict-api\assets\trained-models
+   37  cd C:\Users\Neo\Documents\Git local\load-shortfall-regression-predict-api
+   38  scp api.py explore-student@54.229.154.230:load-shortfall-regression-predict-api
+   39  scp model.py explore-student@54.229.154.230:load-shortfall-regression-predict-api
+   40  request.py
+   41  cd C:\Users\Neo\Documents\Git local\load-shortfall-regression-predict-api\utils
+   42  python request.py
+   43  pip install comet-m
+   44  cd C:\Users\Neo\Documents\New1\classification-predict-streamlit-template
+   45  streamlit run base_app.py
+   46  git clone https://github.com/D3konR3kon/2309AM1_AC-Predict.git
+   47  cd 2309AM1_AC-Predict
+   48  rm -rf .git
+   49  git commit -m "Initial commit"
+   50  git branch -M main git push -u origin main
+   51  git branch -M main
+   52  git remote add origin https://github.com/neomotaung21/AC-Predict.git
+   53  git remote -v
+   54  git pull origin main --allow-unrelated-histories
+   55  git add .
+   56  git commit -m "Resolved merge conflicts"
+   57  git push -u origin main
+   58  mkdir git-basic-exercises cd git-basic-exercises
+   59  ls -a git status
+   60  git restore --staged README.md git status
+   61  git add README.md git commit -m "initial commit"
+   62  cd "C:\Users\Neo\Documents\Git basic"
+   63  mkdir git-basic-exercises
+   64  cd git-basic-exercises
+   65  git init
+   66  touch README.md
+   67  ls -a
+   68  git reset README.md
+   69  git commit -m "initial commit"
+   70  q
+   71  git checkout <c05e283cdeb43cd112201d779df1a67b3455dae5>
+   72  cd "C:\Users\Neo\Documents\cmder\Git basic"
+   73  git commit -m "second commit"
+   74  nano README.md
+   75  git add README.md
+   76  git commit -m "third commit"
+   77  git checkout c0f19961f306288860d4ef695dfce00248e151c9
+   78  cat README.md
+   79  git branch milkshake-flavours
+   80  git checkout milkshake-flavours
+   81  git branch
+   82  nano milkshakes.md
+   83  git status
+   84  git add milkshakes.md
+   85  git commit -m "added initial flavours"
+   86  git log
+   87  git checkout main
+   88  git branch history
+   89  git checkout history
